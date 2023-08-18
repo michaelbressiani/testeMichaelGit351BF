@@ -12,3 +12,5 @@ print("Hello, World!")
 
 print("Olá")
 
+print("Olá 2")
+
